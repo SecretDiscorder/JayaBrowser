@@ -3,7 +3,7 @@
 
 ![image](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/cce891c0-60ef-46ad-bfd7-e109fa4977dd)
 
-Latest Version V1
+Latest Version V5
 
 Android
 
