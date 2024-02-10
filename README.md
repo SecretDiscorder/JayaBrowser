@@ -6,11 +6,10 @@
 
 ### Platform: Android
 
-![WhatsApp Image 2024-02-10 at 10 00 22 (1)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/f2222b44-bd59-496c-88e7-86cc04daec0a)
-![WhatsApp Image 2024-02-10 at 10 00 22](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/9ac954c1-674e-4c33-916c-0d72c1eb40b4)
-![WhatsApp Image 2024-02-10 at 10 00 22 (1)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/40d42317-42e7-4b6d-baf9-1c41ae35a9ce)
-![WhatsApp Image 2024-02-10 at 10 00 38 (1)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/5842dc4e-b3aa-48f0-8984-7534ba4b89e2)
-![WhatsApp Image 2024-02-10 at 10 00 38](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/c62be208-68a3-476e-9b91-8c6549ac52af)
+![WhatsApp Image 2024-02-10 at 10 00 38 (2)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/9ab82824-9dd7-40b6-a4b5-66ec344063c1)
+![WhatsApp Image 2024-02-10 at 10 00 22 (2)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/6dc48289-08bd-496d-b4f3-412745d176bc)
+![WhatsApp Image 2024-02-10 at 10 00 22 (1)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/ed749a4b-60bc-4b9a-b5b0-58459343d602)
+![WhatsApp Image 2024-02-10 at 10 00 22](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/16ac9d14-ab8c-4ac2-b417-13c6323f91a6)
 
 
 ## App Description
