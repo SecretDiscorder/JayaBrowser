@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-02-10 at 10 00 22 (1)](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/077cd864-21a1-4111-a82a-742c280734e8)# SD APPS PBSSI JAYA BROWSER
+# SD APPS PBSSI JAYA BROWSER
 
 ![PBSSI Jaya Browser](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/assets/139457966/cce891c0-60ef-46ad-bfd7-e109fa4977dd)
 
