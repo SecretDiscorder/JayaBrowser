@@ -13,7 +13,7 @@
 
 
 ## App Description
-SD APPS PBSSI JAYA BROWSER is a feature-rich browser designed for the Android platform. With a user-friendly interface and the latest V5 version, it offers a seamless browsing experience.
+SD APPS PBSSI JAYA BROWSER is a feature-rich browser designed for the Android platform. With a user-friendly interface and the latest V10 version, it offers a seamless browsing experience.
 
 ## How to Install
 1. Download the latest APK from the [releases](https://github.com/SecretDiscorder/PBSSIJAYABROWSER/releases) page.
@@ -21,7 +21,7 @@ SD APPS PBSSI JAYA BROWSER is a feature-rich browser designed for the Android pl
 
 ## Features
 - **User-Friendly Interface:** Navigate effortlessly with a clean and intuitive design.
-- **Latest Version (V5):** Experience the enhanced features and improvements.
+- **Latest Version (V10):** Experience the enhanced features and improvements.
 - **Secure Browsing:** Ensure your privacy and security while browsing.
 - **Rich Multimedia Support:** Enjoy multimedia content seamlessly.
 - **Smooth Performance:** Experience fast and responsive browsing.
